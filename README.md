@@ -1,6 +1,6 @@
 # hello-world
 just some ideas for now
-#----    ----
+# ----    ----
 2017-11-01
 For now I am doing the practic of my degree course as a programmer.
 I'm creating this project in Git, maybe in the future it will be useful.
